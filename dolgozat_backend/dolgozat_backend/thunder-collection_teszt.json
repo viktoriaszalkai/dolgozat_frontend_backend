@@ -1,0 +1,46 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "teszt",
+    "collectionId": "e37dc1d3-2f5f-41dc-ac31-44f857745402",
+    "dateExported": "2025-04-10T15:07:02.832Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "4dbc4144-b757-40dd-8c3f-b233d0c8e370",
+            "colId": "e37dc1d3-2f5f-41dc-ac31-44f857745402",
+            "containerId": "",
+            "name": "getTests",
+            "url": "/tesztek",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2025-04-10T13:50:04.808Z",
+            "modified": "2025-04-10T14:02:03.689Z",
+            "headers": []
+        },
+        {
+            "_id": "77804e8b-00a1-4c42-b13f-36a353ae28a3",
+            "colId": "e37dc1d3-2f5f-41dc-ac31-44f857745402",
+            "containerId": "",
+            "name": "getKategoriak",
+            "url": "/kategoriak",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2025-04-10T14:02:14.080Z",
+            "modified": "2025-04-10T14:02:18.040Z",
+            "headers": []
+        }
+    ],
+    "settings": {
+        "headers": [
+            {
+                "name": "Accept",
+                "value": "application/json"
+            }
+        ],
+        "options": {
+            "baseUrl": "http://localhost:8000/api"
+        }
+    },
+    "ref": "dApqyAu0oibR9tCpSFD-0nNN8c35C5gaSNcYwB6zE7FesyTTE_OhH2xHmZTijYhFbENKfXZfIWrqgWwZRfO7LA"
+}
